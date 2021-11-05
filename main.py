@@ -23,4 +23,4 @@ css_file.write("\n#text{\n	color: " + css_file_text + ";\n}")
 css_file.close()
 html_file.close()
 
-print(f"You Website Has Been Crated!")
+print("You Website Has Been Crated!")
