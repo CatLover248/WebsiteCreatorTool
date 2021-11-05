@@ -24,3 +24,5 @@ css_file.close()
 html_file.close()
 
 print("You Website Has Been Crated!")
+
+input("Press Enter To Close This Window")
