@@ -1,4 +1,4 @@
-#Python Version is Maintained by FatyCaty/Yusuf
+#Python Version of WebsiteCreatorTool is Maintained by FatyCaty/Yusuf
 
 
 #MIT License
