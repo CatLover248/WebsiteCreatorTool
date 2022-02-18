@@ -9,4 +9,5 @@ written in (soon) 4 programing languages! Why, you may ask? Cause yes, yes.
 - It is a good learning experiance, because it is open source you may look at the code and maybe learn something from it. The reason for this projects creation was to be a learning expariance
 
 
-### Contact me on Discord if you want to speak to me! My Discord is FatyCaty#0717 
+### Contact me on Discord if you want to speak to me!
+### My Discord is FatyCaty#0717 
