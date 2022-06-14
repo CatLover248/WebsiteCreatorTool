@@ -1,6 +1,6 @@
 # WebsiteCreatorTool or WCT
 
-## Scripts Made to make your life easier while making a base website!
+## Program Made to make development easier!
 Website Creator Tool is meant to make making a base HTML and CSS Website easy. It is
 written in (soon) 4 programing languages! Why, you may ask? Cause yes, yes.
 
