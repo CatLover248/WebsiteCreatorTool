@@ -77,7 +77,7 @@ public class Main {
             b.close();
             System.out.println(cssFileName + ".css Generated!");
         } catch(IOException e){
-            System.out.println("Error: \n" + e);
+            System.out.println("Exception: \n" + e);
         }
     }
 }
